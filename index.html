@@ -1,0 +1,243 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Sleep Nest | Better Sleep, Better Life</title>
+  <meta name="description" content="Simple and practical sleep tips to help you rest better, wake up refreshed, and build healthy sleep habits." />
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: linear-gradient(135deg, #101827, #1e2a47, #2f3c67);
+      color: #ffffff;
+      line-height: 1.6;
+    }
+
+    header {
+      padding: 24px 8%;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+
+    .logo {
+      font-size: 24px;
+      font-weight: bold;
+      letter-spacing: 1px;
+    }
+
+    nav a {
+      color: #dbe7ff;
+      text-decoration: none;
+      margin-left: 20px;
+      font-size: 15px;
+    }
+
+    nav a:hover {
+      color: #ffffff;
+    }
+
+    .hero {
+      min-height: 80vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 60px 8%;
+      text-align: center;
+    }
+
+    .hero-content {
+      max-width: 800px;
+    }
+
+    .hero h1 {
+      font-size: 56px;
+      line-height: 1.1;
+      margin-bottom: 20px;
+    }
+
+    .hero p {
+      font-size: 20px;
+      color: #dbe7ff;
+      margin-bottom: 32px;
+    }
+
+    .button {
+      display: inline-block;
+      padding: 14px 28px;
+      background: #ffffff;
+      color: #1e2a47;
+      border-radius: 999px;
+      text-decoration: none;
+      font-weight: bold;
+      transition: 0.2s ease;
+    }
+
+    .button:hover {
+      transform: translateY(-2px);
+      background: #e6edff;
+    }
+
+    section {
+      padding: 70px 8%;
+    }
+
+    .section-light {
+      background: #f7f9ff;
+      color: #1d2433;
+    }
+
+    .section-light h2 {
+      text-align: center;
+      font-size: 36px;
+      margin-bottom: 40px;
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 24px;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+
+    .card {
+      background: #ffffff;
+      border-radius: 20px;
+      padding: 28px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.08);
+    }
+
+    .card h3 {
+      font-size: 22px;
+      margin-bottom: 12px;
+      color: #1e2a47;
+    }
+
+    .card p {
+      color: #555f73;
+    }
+
+    .about {
+      max-width: 850px;
+      margin: 0 auto;
+      text-align: center;
+    }
+
+    .about h2 {
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+
+    .about p {
+      color: #dbe7ff;
+      font-size: 18px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px 8%;
+      background: #0c1220;
+      color: #9fb0d0;
+      font-size: 14px;
+    }
+
+    @media (max-width: 768px) {
+      header {
+        flex-direction: column;
+        gap: 16px;
+      }
+
+      nav a {
+        margin: 0 8px;
+      }
+
+      .hero h1 {
+        font-size: 40px;
+      }
+
+      .hero p {
+        font-size: 18px;
+      }
+
+      .cards {
+        grid-template-columns: 1fr;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <div class="logo">Sleep Nest</div>
+    <nav>
+      <a href="#tips">Sleep Tips</a>
+      <a href="#about">About</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-content">
+        <h1>Better Sleep Starts Tonight</h1>
+        <p>
+          Simple, calm, and practical sleep advice to help you relax faster,
+          rest deeper, and wake up feeling refreshed.
+        </p>
+        <a href="#tips" class="button">Explore Sleep Tips</a>
+      </div>
+    </section>
+
+    <section id="tips" class="section-light">
+      <h2>Simple Sleep Tips</h2>
+
+      <div class="cards">
+        <div class="card">
+          <h3>Keep a Routine</h3>
+          <p>
+            Try going to bed and waking up at the same time every day.
+            A steady rhythm helps your body know when it is time to rest.
+          </p>
+        </div>
+
+        <div class="card">
+          <h3>Reduce Screen Time</h3>
+          <p>
+            Give yourself at least 30 minutes away from bright screens before bed.
+            This helps your mind slow down naturally.
+          </p>
+        </div>
+
+        <div class="card">
+          <h3>Create a Calm Room</h3>
+          <p>
+            A cool, dark, and quiet bedroom can make it easier to fall asleep
+            and stay asleep through the night.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section id="about">
+      <div class="about">
+        <h2>About Sleep Nest</h2>
+        <p>
+          Sleep Nest is a simple place for better sleep habits, night routines,
+          and gentle reminders to help you live with more energy during the day.
+        </p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    © 2026 Sleep Nest. All rights reserved.
+  </footer>
+</body>
+</html>

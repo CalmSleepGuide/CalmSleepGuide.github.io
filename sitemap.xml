@@ -2,15 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://calmsleepguide.github.io/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://calmsleepguide.github.io/news/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://calmsleepguide.github.io/2026/05/what-i-learned-about-sleep-apnea-when-cpap-therapy-cfea44.html</loc>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://calmsleepguide.github.io/2026/05/cpap-therapy-and-the-search-for-sleep-apnea-treatment-c03b1e.html</loc>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://calmsleepguide.github.io/2026/05/cbt-i-vs-sleep-hygiene-vs-doing-nothing-what-actually-7ce25c.html</loc>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
   </url>
   <url>
     <loc>https://calmsleepguide.github.io/2026/05/chronotypes-and-work-performance-when-your-biology-2f577b.html</loc>
@@ -43,92 +61,152 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://calmsleepguide.github.io/author/benjamin-drake/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <loc>https://calmsleepguide.github.io/author/grace-ellerton/</loc>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://calmsleepguide.github.io/author/william-novak/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <loc>https://calmsleepguide.github.io/author/lucy-fairbanks/</loc>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://calmsleepguide.github.io/author/christopher-weston/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://calmsleepguide.github.io/author/benjamin-drake/</loc>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://calmsleepguide.github.io/author/william-novak/</loc>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://calmsleepguide.github.io/author/daniel-coleridge/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://calmsleepguide.github.io/topic/cpap-therapy/</loc>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://calmsleepguide.github.io/topic/sleep-apnea/</loc>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://calmsleepguide.github.io/topic/hypoglossal-nerve-stimulation/</loc>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://calmsleepguide.github.io/topic/sleep-apnea-treatment/</loc>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://calmsleepguide.github.io/topic/oral-appliances/</loc>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://calmsleepguide.github.io/topic/cbt-i/</loc>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://calmsleepguide.github.io/topic/sleep-hygiene/</loc>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://calmsleepguide.github.io/topic/stimulus-control/</loc>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://calmsleepguide.github.io/topic/circadian-rhythm/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://calmsleepguide.github.io/topic/chronotypes/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://calmsleepguide.github.io/topic/work-performance/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://calmsleepguide.github.io/topic/sleep-timing/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://calmsleepguide.github.io/topic/wolf-chronotype/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://calmsleepguide.github.io/topic/productivity/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://calmsleepguide.github.io/topic/chronotype/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://calmsleepguide.github.io/topic/sleep-biology/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://calmsleepguide.github.io/author/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://calmsleepguide.github.io/topic/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://calmsleepguide.github.io/about/</loc>
-    <lastmod>2026-05-22T14:39:12+00:00</lastmod>
+    <lastmod>2026-05-22T19:48:02+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

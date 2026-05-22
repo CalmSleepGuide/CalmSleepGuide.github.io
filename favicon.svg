@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Calm Sleep Guide">
+  <title>Calm Sleep Guide</title>
+  <!--
+    Calm Sleep Guide brand mark.
+
+    Geometry mirrored 1:1 by generate_favicons.py (16/32/48 px raster +
+    apple-touch 180 px). Authored at 64×64 so every coordinate maps to
+    a clean integer.
+
+    Composition (z-order, bottom to top):
+      1. Forest disc        deep green-teal base (CSS token: accent)
+      2. Crescent moon      cream disc with forest bite, opening to upper-right
+      3. Star               single cream dot, lower-right (rendered at 32 px and up)
+      4. Inset rim          1 px black at 0.15 alpha, just inside the disc
+
+    Palette matches html/samples/style.css design tokens:
+      accent  #2f5d50   forest disc, moon bite
+      bg      #fafaf7   moon, star
+  -->
+
+  <!-- 1. Forest disc -->
+  <circle cx="32" cy="32" r="30" fill="#2f5d50"/>
+
+  <!-- 2. Crescent moon — cream disc, forest bite from the upper-right
+       producing a crescent that opens up and to the right. -->
+  <circle cx="28" cy="30" r="18" fill="#fafaf7"/>
+  <circle cx="37" cy="24" r="17" fill="#2f5d50"/>
+
+  <!-- 3. Star -->
+  <circle cx="46" cy="44" r="1.6" fill="#fafaf7"/>
+
+  <!-- 4. Inset rim — sits at r=29.5 so the 1 px stroke (29 -> 30) is
+       fully inside the disc and never clips against the viewBox edge. -->
+  <circle cx="32" cy="32" r="29.5" fill="none"
+          stroke="#000" stroke-opacity="0.15" stroke-width="1"/>
+</svg>
